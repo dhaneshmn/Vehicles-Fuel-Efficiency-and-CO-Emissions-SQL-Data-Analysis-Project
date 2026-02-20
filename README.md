@@ -1,0 +1,2 @@
+# Vehicles-Fuel-Efficiency-and-CO-Emissions-SQL-Data-Analysis-Project
+This project focuses on analyzing vehicle fuel efficiency and CO₂ emissions using SQL-based data exploration and querying techniques. The objective is to extract meaningful insights from automotive datasets to understand how engine characteristics, fuel types, and vehicle specifications influence fuel consumption and environmental impact.
