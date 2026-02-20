@@ -4,7 +4,7 @@ Project Overview
 
 The project uses structured query language (SQL) to clean, transform, and analyze vehicle performance data. Various analytical queries were developed to evaluate fuel efficiency patterns, emission trends, and relationships between engine features and CO₂ output.
 
-# Objectives
+## Objectives
 
 Analyze fuel consumption across different vehicle classes and manufacturers
 
@@ -17,7 +17,7 @@ Perform aggregations and trend analysis using SQL queries
 Generate data-driven insights supporting environmental sustainability analysis
 
 
-# Key Analysis Performed
+## Key Analysis Performed
 
 Average fuel consumption by vehicle category
 
@@ -29,7 +29,7 @@ Identification of high-emission and fuel-efficient vehicles
 
 Grouping, filtering, joins, and advanced SQL aggregations
 
-# Dataset Features
+## Dataset Features
 
 The dataset includes:
 
@@ -43,7 +43,7 @@ Fuel consumption (city/highway/combined)
 
 CO₂ emission ratings
 
-✅ Outcomes
+##  Outcomes
 
 Developed optimized SQL queries for large dataset analysis
 
